@@ -1,0 +1,18 @@
+/*
+Theme Name: Fukasawa - child
+Description: Theme enfant de David
+Author: David - Cultrue
+Author URI: 
+Template: Fukasawa 
+Version: 0.1.0
+*/
+
+.sidebar {
+	width: 280px;
+	padding: 50px 40px;
+	position: fixed;
+overflow: scroll;
+	top: 0;
+	left: 0;
+	font-size: 0.71em;
+}

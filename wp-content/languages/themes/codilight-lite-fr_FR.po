@@ -1,0 +1,410 @@
+# Translation of Themes - Codilight Lite in French (France)
+# This file is distributed under the same license as the Themes - Codilight Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-29 06:24:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Codilight Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Codilight Lite"
+msgstr "Codilight Lite"
+
+#: 404.php:24
+msgid "Maybe try a search?"
+msgstr "Essayer une recherche ?"
+
+#: 404.php:29
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 Commentaire"
+msgstr[1] "%1$s commentaires"
+
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:42 comments.php:62
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:43 comments.php:63
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: footer.php:32
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright %1$s &copy; %2$s Tous droits réservés."
+
+#: footer.php:34
+msgid "Codilight Theme by %1$s"
+msgstr "Thème Codilight par %1$s"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Menu du pied"
+
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr "Barre par défaut"
+
+#: functions.php:112
+msgid "Home 1"
+msgstr "Accueil 1"
+
+#: functions.php:121
+msgid "Home 2"
+msgstr "Accueil 2"
+
+#: functions.php:130
+msgid "Home 3"
+msgstr "Accueil 3"
+
+#: functions.php:139
+msgid "Home 4"
+msgstr "Accueil 4"
+
+#. Translators: If there are characters in your language that are not supported
+#. by merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:184
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:190
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour&nbsp;: %s"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Pleine largeur"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Page d&rsquo;accueil"
+
+#: inc/customizer.php:41
+msgid "Site Logo"
+msgstr "Logo du Site"
+
+#: inc/customizer.php:43
+msgid "Your site logo"
+msgstr "Logo de votre site"
+
+#: inc/customizer.php:54
+msgid "Site Layout"
+msgstr "Style du site"
+
+#: inc/customizer.php:64
+msgid "Default Sidebar Position"
+msgstr "Position de barre par défaut"
+
+#: inc/customizer.php:78
+msgid "Front Page Posts Layout"
+msgstr "Style des articles de page d&rsquo;acuueil"
+
+#: inc/customizer.php:92
+msgid "Archive Page Posts Layout"
+msgstr "Style des articles de page d&rsquo;archive"
+
+#: inc/dashboard.php:9
+msgid "%s Theme Dashboard"
+msgstr "Tableau de bord du thème %s"
+
+#: inc/dashboard.php:9
+msgid "%s"
+msgstr "%s"
+
+#: inc/dashboard.php:17
+msgid "Welcome to %1s - Version %2s"
+msgstr "Bienvenue dans %1s - Version %2s"
+
+#: inc/dashboard.php:29
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s supporte l&rsquo;outil de personnalisation pour tous les réglages du thème. Cliquez sur \"Personnaliser\" pour commencer."
+
+#: inc/dashboard.php:31
+msgid "Start Customize"
+msgstr "Commencer la personnalisation"
+
+#: inc/dashboard.php:36
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Besoin d&rsquo;aide pour configurer %s&nbsp;? Jetez un œil sur notre documentation."
+
+#: inc/dashboard.php:38
+msgid "Online Documentation"
+msgstr "Documentation en ligne"
+
+#: inc/dashboard.php:43
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr "Le support pour le thème WordPress %s est géré par le forum de support gratuit de WordPres."
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: archive.php:55 archive.php:75 category.php:55 category.php:75 index.php:60
+#: index.php:80 search.php:41
+msgid "Page"
+msgstr "Page"
+
+#: archive.php:57 archive.php:77 category.php:57 category.php:77 index.php:62
+#: index.php:82 search.php:43
+msgid "Page %1$s of %2$s"
+msgstr "Page %1$s sur %2$s"
+
+#: inc/template-tags.php:67
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/template-tags.php:72
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/template-tags.php:95
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/template-tags.php:102
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/template-tags.php:131
+msgid "Pingback:"
+msgstr "Ping&nbsp;:"
+
+#: inc/template-tags.php:131
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: inc/template-tags.php:147
+msgid "Post author"
+msgstr "Auteur de l&rsquo;article"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:153
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:155
+msgid "Reply"
+msgstr "Répondre"
+
+#: inc/template-tags.php:156
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/template-tags.php:161
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: inc/widgets/block_1_widget.php:13
+msgid "Display posts with list or grid style for use on homepage."
+msgstr "Affichage des articles en liste ou en grille sur la page d&rsquo;accueil."
+
+#: inc/widgets/block_1_widget.php:14
+msgid "FT Block 1 - Recent Posts"
+msgstr "Bloc FT 1 - Articles récents"
+
+#: inc/widgets/block_1_widget.php:193 inc/widgets/block_2_widget.php:189
+#: inc/widgets/block_3_widget.php:184 inc/widgets/block_4_widget.php:171
+msgid "Widget Title:"
+msgstr "Titre du Widget&nbsp;:"
+
+#: inc/widgets/block_1_widget.php:197
+msgid "Posts block layout:"
+msgstr "Style de bloc d&rsquo;articles&nbsp;:"
+
+#: inc/widgets/block_1_widget.php:206 inc/widgets/block_2_widget.php:194
+#: inc/widgets/block_4_widget.php:176
+msgid "Multiselect Categories (all by default):"
+msgstr "Sélection de catégories multiples (toutes par défaut)&nbsp;:"
+
+#: inc/widgets/block_1_widget.php:214 inc/widgets/block_2_widget.php:202
+#: inc/widgets/block_3_widget.php:196 inc/widgets/block_4_widget.php:184
+msgid "Number of posts to show:"
+msgstr "Nombre d&rsquo;articles à afficher&nbsp;:"
+
+#: inc/widgets/block_1_widget.php:219 inc/widgets/block_2_widget.php:208
+#: inc/widgets/block_3_widget.php:201 inc/widgets/block_4_widget.php:189
+msgid "Ignore Sticky Posts"
+msgstr "Ignorer les articles mis en avant"
+
+#: inc/widgets/block_1_widget.php:222 inc/widgets/block_2_widget.php:211
+#: inc/widgets/block_3_widget.php:204 inc/widgets/block_4_widget.php:192
+msgid "Order By:"
+msgstr "Trier par&nbsp;:"
+
+#: inc/widgets/block_2_widget.php:13
+msgid "Slider posts widget for use on homepage."
+msgstr "Widget de diaporama d&rsquo;articles à utiliser sur la page d&rsquo;accueil."
+
+#: inc/widgets/block_2_widget.php:14
+msgid "FT Block 2 - Slider"
+msgstr "FT Bloc 2 - Diaporama"
+
+#: inc/widgets/block_2_widget.php:204
+msgid "This widget only show posts has featured image."
+msgstr "Ce widget n&rsquo;affiche que les articles avec une image mise en avant."
+
+#: inc/widgets/block_3_widget.php:13
+msgid "Display a list of posts based on one parent category"
+msgstr "Affiche une liste d&rsquo;articles basée sur une catégorie parente."
+
+#: inc/widgets/block_3_widget.php:14
+msgid "FT Block 3"
+msgstr "FT Bloc 3"
+
+#: inc/widgets/block_3_widget.php:188
+msgid "Block Category:"
+msgstr "Bloc de catégorie&nbsp;:"
+
+#: inc/widgets/block_4_widget.php:13
+msgid "Display a list of popular/lastest posts for use on sidebar."
+msgstr "Affiche une liste des articles populaires / récents à utiliser dans la barre."
+
+#: inc/widgets/block_4_widget.php:14
+msgid "FT Block 4"
+msgstr "FT Bloc 4"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre 1er article&nbsp;? <a href=\"%1$s\">Lancez vous ici</a>."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères."
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que nous ne trouvions pas ce que vous cherchez. Essayez une recherche."
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:28
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: template-parts/content-single.php:45
+msgid "Previous article"
+msgstr "Article précédent"
+
+#: template-parts/content-single.php:51
+msgid "Next article"
+msgstr "Article suivant"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.7)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/dashboard.php:18
+msgid "Codilight Lite is a news magazine style WordPress theme from FameThemes which is a perfect option to create any kind of magazine or blog websites."
+msgstr "Codelight Light est un thème WordPress de magazine qui est un choix parfait pour créer tous types de magazines ou blogs."
+
+#. #-#-#-#-#  codilight-lite.pot (Codilight Lite 1.0.7)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/dashboard.php:19
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#: 404.php:18
+msgid "Ooops&hellip; Error 404"
+msgstr "Oups&hellip; Erreur 404"
+
+#: 404.php:19
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist. "
+msgstr "Désolé, mais la page que vous recherchez n&rsquo;existe pas."
+
+#: header.php:32
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:42
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/customizer-controls.php:38
+msgid "Upgrade to <a href=\"#\">Codilight Premium</a> to be able to change the section order and styling!"
+msgstr "Mettez à jour vers <a href=\"#\">Codilight Premium</a> pour pouvoir changer l&rsquo;ordre de section et le style&nbsp;!"
+
+#: inc/customizer.php:99
+msgid "Category, Tag, Author, Archive Page&hellip;"
+msgstr "Catégorie, étiquette, auteur, page d&rsquo;archive&hellip;"
+
+#: inc/dashboard.php:28
+msgid "Theme Customizer"
+msgstr "Personnalisation du thème"
+
+#: inc/dashboard.php:35
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: inc/dashboard.php:42
+msgid "Having Trouble, Need Support?"
+msgstr "Vous avez besoin d&rsquo;aide&nbsp;?"
+
+#: inc/dashboard.php:51
+msgid "Theme Screenshot"
+msgstr "Capture du thème"
+
+#: inc/extras.php:91
+msgid "Add a menu"
+msgstr "Ajout de menu"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.famethemes.com/themes/codilight-lite"
+msgstr "http://www.famethemes.com/themes/codilight-lite"
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
